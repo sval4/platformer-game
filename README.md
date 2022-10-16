@@ -1,4 +1,2 @@
 # Team Members #
-Sharat
-Ashwin 
-Brandon
+Sharat, Ashwin, Brandon
